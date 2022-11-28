@@ -1,0 +1,24 @@
+{
+    "description": "NFT for sky NFT staking platform",
+    "external_url": "https://twitter.com/PiusVicentia",
+    "image": "https://ipfs.filebase.io/ipfs/QmT7VQxnYV2hyF4pYDLpepoua4ox3YqW6Wr7ZwCKckpBiL",
+    "name": "Himalayan Blue Poppy",
+    "attributes": [
+      {
+        "trait_type": "Plant",
+        "value": "Flower"
+      },
+      {
+        "trait_type": "Family",
+        "value": "Papaveraceae"
+      },
+      {
+        "trait_type": "Token Standard",
+        "value": "ERC721"
+      },
+      {
+        "trait_type": "Date",
+        "value": "26th November, 2022"
+      }
+    ]
+  }

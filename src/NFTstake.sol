@@ -44,7 +44,7 @@ contract NFTstake {
         uint40 checkStakePeriod = s.timeOfStaking + block.timestamp;
         require(checkStakePeriod >= minStakingperiod, "Your staking period is not up to the set minimum staking period.");
         uint rewards = rewardperWeek * checkStakePeriod;
-        
+         
     }
 
     function setRewardPerWeek(skyToken numberOfTokens) external ownerRestriction {
